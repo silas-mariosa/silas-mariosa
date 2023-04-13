@@ -31,4 +31,4 @@
   <a href="https://wa.me/5535997047110" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
-![Snake anination)(https://github.con/silas-mariosa/silas-mariosa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/silas-mariosa/silas-mariosa/blob/output/github-contribution-grid-snake.gif)

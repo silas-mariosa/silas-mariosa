@@ -3,7 +3,7 @@
 - 🔭 Now i'm work with Front-End and Game Dev
 - 🌱 I’m currently learning: React Native ➕ Typescript ➕ Unity
 - 💬 Ask me about ...
-- 📫 How to reach me: silas.mariosa@hotmail.com
+- 📫 How to reach me: siloks.developer@gmail.com
 - 😄 Pronouns: ele/dele
 - 💻 My website: http://www.silasmariosa.com.br
 ##

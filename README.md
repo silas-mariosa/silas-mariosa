@@ -1,7 +1,7 @@
 ### Hi there, i'm Silas Mariosa | silas-mariosa 👋
 
 - 🔭 Now i'm work with Front-End and Game Dev
-- 🌱 I’m currently learning: React JS ➕ Typescript ➕ Unity
+- 🌱 I’m currently learning: React Native ➕ Typescript ➕ Unity
 - 💬 Ask me about ...
 - 📫 How to reach me: silas.mariosa@hotmail.com
 - 😄 Pronouns: ele/dele

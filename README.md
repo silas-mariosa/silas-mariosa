@@ -1,7 +1,7 @@
 ### Hi there, i'm Silas Mariosa | silas-mariosa 👋
 
 - 🔭 Now i'm work with Front-End and Game Dev
-- 🌱 I’m currently learning: React Native ➕ Typescript ➕ Unity
+- 🌱 I’m currently learning: Hono ➕ Elysia ➕ PostgreSQL
 - 💬 Ask me about ...
 - 📫 How to reach me: siloks.developer@gmail.com
 - 😄 Pronouns: ele/dele

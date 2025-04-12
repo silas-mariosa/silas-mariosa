@@ -1,11 +1,11 @@
 ### Hi there, i'm Silas Mariosa | silas-mariosa 👋
 
-- 🔭 Now i'm work with Front-End and Game Dev
-- 🌱 I’m currently learning: Hono ➕ Elysia ➕ PostgreSQL
+- 🔭 Now i'm work with Full-Stack and learning Game Dev
+- 🌱 I’m currently learning: Nest.js ➕ TypeORM
 - 💬 Ask me about ...
 - 📫 How to reach me: siloks.developer@gmail.com
 - 😄 Pronouns: ele/dele
-- 💻 My website: http://www.silasmariosa.com.br
+- 💻 My website: http://www.mariosatech.com.br
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silas-mariosa&show_icons=true&theme=tokyonight&count_private=true)
 ##

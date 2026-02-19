@@ -1,7 +1,7 @@
 ### Hi there, i'm Silas Mariosa | silas-mariosa 👋
 
 - 🔭 Now i'm work with Full-Stack and learning Game Dev
-- 🌱 I’m currently learning: Nest.js ➕ TypeORM
+- 🌱 I’m currently learning: Nest.js, TypeORM, .NET
 - 💬 Ask me about ...
 - 📫 How to reach me: siloks.developer@gmail.com
 - 😄 Pronouns: ele/dele
